@@ -28,6 +28,8 @@ This project implements a time series forecasting model to predict future produc
 ([Link to file](https://github.com/Hiteshreek2510/Retail_optimization_project/blob/main/Hackathon_Retail_optimize.zip))
 ### Output
 ([OUTPUT FILE](https://github.com/Hiteshreek2510/Retail_optimization_project/blob/main/forecast.csv))
+
+**The output is in csv format where the predicted_mean is the predicted sales data**
 ## Conclusion
 This project focuses on demand forecasting a critical skill in data science, while real-time system integration is not implemented,  a clear   architectural plan is presented, demonstrating of scalable solutions. The ARIMA model is used to predict or forecast the demand of products for future .The architecture can be supported by Kafka middleware for futuristic work
 
